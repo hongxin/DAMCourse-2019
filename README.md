@@ -20,8 +20,8 @@ Mr. Kan Zhou
 ## Schedule
 |   Topic           |     Date     |                  Slides                                   |   Course note      |          
 | ----------------  |:------------:|:---------------------------------------------------------:|:------------------:|
-|  Introduction     |  2019.09.10  |  [Introduction](pdf/dam2018-00.pdf)                       |   Chapter 1        |
-|                   |              |  [What is digital asset management](pdf/dam2018-01.pdf)   |   Skills           |
+|  Introduction     |  2019.09.10  |  [Introduction](pdf/dam2019-00.pdf)                       |   Chapter 1        |
+|                   |              |  [What is digital asset management](pdf/dam2019-01.pdf)   |   Skills           |
 |                   |              |  Additional reading                                       |                    |
 |Media Format (I)   |  2019.09.12  |  [Image](pdf/dam2018-02.pdf)                              |   Chapter 2        |
 |Media Format (II)  |  2019.xx.xx  |  [Audio](pdf/dam2018-03.pdf)                              |   Chapter 2        |
@@ -57,7 +57,7 @@ Mr. Kan Zhou
 - **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-18)
 
 ## Course Project
-- The course project [PDF](pdf/dam2018-project.pdf) (deadline, 2019-xx-xx)
+- The course project [PDF](pdf/dam2019-project.pdf) (deadline, 2019-xx-xx)
 - Team list
 
 ## Reference Links
