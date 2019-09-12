@@ -23,41 +23,41 @@ Mr. Kan Zhou
 |  Introduction     |  2019.09.10  |  [Introduction](pdf/dam2019-00.pdf)                       |   Chapter 1        |
 |                   |              |  [What is digital asset management](pdf/dam2019-01.pdf)   |   Skills           |
 |                   |              |  Additional reading                                       |                    |
-|Media Format (I)   |  2019.09.12  |  [Image](pdf/dam2018-02.pdf)                              |   Chapter 2        |
-|Media Format (II)  |  2019.xx.xx  |  [Audio](pdf/dam2018-03.pdf)                              |   Chapter 2        |
-|Media Format (III) |  2019.xx.xx  |  [Video](pdf/dam2018-04.pdf)                              |   Chapter 2        |
-|Media Format (IV)  |  2019.xx.xx  |  [HTML, XML and 3D](pdf/dam2018-05.pdf)                   |   Chapter 2        |
+|Media Format (I)   |  2019.09.12  |  [Image](pdf/dam2019-02.pdf)                              |   Chapter 2        |
+|Media Format (II)  |  2019.09.17  |  [Audio](pdf/dam2019-03.pdf)                              |   Chapter 2        |
+|Media Format (III) |  2019.09.19  |  [Video](pdf/dam2019-04.pdf)                              |   Chapter 2        |
+|Media Format (IV)  |  2019.09.24  |  [HTML, XML and 3D](pdf/dam2019-05.pdf)                   |   Chapter 2        |
 |                   |              |  [An HTML5 example](examples/html5)                       |                    |
-|Multimedia DB (I)  |  2019.xx.xx  |  [Chanllenges](pdf/dam2018-06.pdf)                        |   Chapter 3        |
-|Multimedia DB (II) |  2019.xx.xx  |  [Metadata](pdf/dam2018-07.pdf)                           |   Chapter 3        |
-|Multimedia DB (III)|  2019.xx.xx  |  [MPEG-7 and storage](pdf/dam2018-08.pdf)                 |   Chapter 3        |
+|Multimedia DB (I)  |  2019.09.26  |  [Chanllenges](pdf/dam2019-06.pdf)                        |   Chapter 3        |
+|Multimedia DB (II) |  2019.10.08  |  [Metadata](pdf/dam2019-07.pdf)                           |   Chapter 3        |
+|Multimedia DB (III)|  2019.10.10  |  [MPEG-7 and storage](pdf/dam2019-08.pdf)                 |   Chapter 3        |
 |                   |              |  -----                                                    |                    |
-|DRM(I)             |  2019.xx.xx  |  [Digital Right Management](pdf/dam2018-09.pdf)           |   Chapter 4        |
-|DRM(II)            |  2019.xx.xx  |  [Digital Right Management](pdf/dam2018-10.pdf)           |   Chapter 4        |
+|DRM(I)             |  2019.10.15  |  [Digital Right Management](pdf/dam2019-09.pdf)           |   Chapter 4        |
+|DRM(II)            |  2019.10.17  |  [Digital Right Management](pdf/dam2019-10.pdf)           |   Chapter 4        |
 |                   |              |  -----                                                    |                    |
-|Streaming (I)      |  2019.xx.xx  |  [Streaming protocols](pdf/dam2018-11.pdf)                |   Chapter 5        |
-|Streaming (II)     |  2019.xx.xx  |  [Streaming and QoS](pdf/dam2018-12.pdf)                  |   Chapter 5        |
+|Streaming (I)      |  2019.10.22  |  [Streaming protocols](pdf/dam2019-11.pdf)                |   Chapter 5        |
+|Streaming (II)     |  2019.10.24  |  [Streaming and QoS](pdf/dam2019-12.pdf)                  |   Chapter 5        |
 |                   |              |  -----                                                    |                    |
-|Retrieval (I)      |  2019.xx.xx  |  [Image Retrieval](pdf/dam2018-13.pdf)                    |   Chapter 6        |
-|Retrieval (II)     |  2019.xx.xx  |  [Music Searching](pdf/dam2018-14.pdf)                    |   Chapter 6        |
-|Retrieval (III)    |  2019.xx.xx  |  [Video Searching](pdf/dam2018-15.pdf)                    |   Chapter 6        |
+|Retrieval (I)      |  2019.10.29  |  [Image Retrieval](pdf/dam2019-13.pdf)                    |   Chapter 6        |
+|Retrieval (II)     |  2019.10.31  |  [Music Searching](pdf/dam2019-14.pdf)                    |   Chapter 6        |
+|Retrieval (III)    |  2019.10.31  |  [Video Searching](pdf/dam2019-15.pdf)                    |   Chapter 6        |
 |                   |              |  -----                                                    |                    |
-|Game Development   |  2019.xx.xx  |  [Game](pdf/dam2018-16.pdf)                               |   Chapter 7        |
-|Digital Library    |  2019.xx.xx  |  [Digital Library](pdf/dam2018-17.pdf)                    |   Chapter 8        |
+|Game Development   |  2019.xx.xx  |  [Game](pdf/dam2019-16.pdf)                               |   Chapter 7        |
+|Digital Library    |  2019.xx.xx  |  [Digital Library](pdf/dam2019-17.pdf)                    |   Chapter 8        |
 |                   |              |  -----                                                    |                    |
-|Project Presenting |  2019.xx.xx  |  -----                                                    |                    |
+|Project Presenting |  2019.11.xx  |  -----                                                    |                    |
 
 
 ## Homework
-- **Content collection**: [homework-01](pdf/dam2019-hw01.pdf) (deadline, 2019-09-30)
+- **Content collection**: [homework-01](pdf/dam2019-hw01.pdf) (deadline, 2019-09-26)
 - **Assets cataloging**: [homework-02](pdf/dam2019-hw02.pdf) (deadline, 2019-10-10)  [a simple example](https://www.midifan.com) [郭勇飞同学的作业]( ... ) 
-- **Acquire data from internet**: [homework-02a](pdf/dam2019-hw02a.pdf) (deadline, 2019-10-30)
-- **Image watermarking**: [homework-03](pdf/dam2019-hw03.pdf) (deadline, 2019-11-08)
-- **Image similarity computing**: [homework-04](pdf/dam2018-hw04.pdf) (deadline, 2019-11-15) Additional reference More and pHash 10 Image samples
-- **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-18)
+- **Acquire data from internet**: [homework-02a](pdf/dam2019-hw02a.pdf) (deadline, 2019-10-17)
+- **Image watermarking**: [homework-03](pdf/dam2019-hw03.pdf) (deadline, 2019-10-24)
+- **Image similarity computing**: [homework-04](pdf/dam2018-hw04.pdf) (deadline, 2019-11-07) Additional reference More and pHash 10 Image samples
+- **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-07)
 
 ## Course Project
-- The course project [PDF](pdf/dam2019-project.pdf) (deadline, 2019-xx-xx)
+- The course project [PDF](pdf/dam2019-project.pdf) (deadline, 2019-11-xx)
 - Team list
 
 ## Reference Links
