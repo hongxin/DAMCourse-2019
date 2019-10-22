@@ -35,12 +35,12 @@ Mr. Kan Zhou
 |DRM(I)             |  2019.10.15  |  [Digital Right Management](pdf/dam2019-09.pdf)           |   Chapter 4        |
 |DRM(II)            |  2019.10.17  |  [Digital Right Management](pdf/dam2019-10.pdf)           |   Chapter 4        |
 |                   |              |  -----                                                    |                    |
-|Retrieval (I)      |  2019.10.22  |  [Image Retrieval](pdf/dam2019-13.pdf)                    |   Chapter 5        |
-|Retrieval (II)     |  2019.10.24  |  [Music Searching](pdf/dam2019-14.pdf)                    |   Chapter 5        |
-|Retrieval (III)    |  2019.10.24  |  [Video Searching](pdf/dam2019-15.pdf)                    |   Chapter 5        |
+|Retrieval (I)      |  2019.10.22  |  [Image Retrieval](pdf/dam2019-11.pdf)                    |   Chapter 5        |
+|Retrieval (II)     |  2019.10.24  |  [Music Searching](pdf/dam2019-12.pdf)                    |   Chapter 5        |
+|Retrieval (III)    |  2019.10.24  |  [Video Searching](pdf/dam2019-13.pdf)                    |   Chapter 5        |
 |                   |              |  -----                                                    |                    |
-|Streaming (I)      |  2019.10.29  |  [Streaming protocols](pdf/dam2019-11.pdf)                |   Chapter 6        |
-|Streaming (II)     |  2019.10.31  |  [Streaming and QoS](pdf/dam2019-12.pdf)                  |   Chapter 6        |
+|Streaming (I)      |  2019.10.29  |  [Streaming protocols](pdf/dam2019-14.pdf)                |   Chapter 6        |
+|Streaming (II)     |  2019.10.31  |  [Streaming and QoS](pdf/dam2019-15.pdf)                  |   Chapter 6        |
 |                   |              |  -----                                                    |                    |
 |Game Development   |  2019.10.31  |  [Game](pdf/dam2019-16.pdf)                               |   Chapter 7        |
 |Digital Library    |  2019.10.31  |  [Digital Library](pdf/dam2019-17.pdf)                    |   Chapter 8        |
@@ -52,8 +52,8 @@ Mr. Kan Zhou
 - **Content collection**: [homework-01](pdf/dam2019-hw01.pdf) (deadline, 2019-09-26)
 - **Assets cataloging**: [homework-02](pdf/dam2019-hw02.pdf) (deadline, 2019-10-08)  [a simple example](https://www.midifan.com) [郭勇飞同学的作业]( ... ) 
 - **Acquire data from internet**: [homework-02a](pdf/dam2019-hw02a.pdf) (deadline, 2019-10-17)
-- **Image watermarking**: [homework-03](pdf/dam2019-hw03.pdf) (deadline, 2019-10-24)
-- **Image similarity computing**: [homework-04](pdf/dam2018-hw04.pdf) (deadline, 2019-11-07) Additional reference More and pHash 10 Image samples
+- **Image watermarking**: [homework-03](pdf/dam2019-hw03.pdf) (deadline, 2019-10-29)
+- **Image similarity computing**: [homework-04](pdf/dam2018-hw04.pdf) (deadline, 2019-11-05) Additional reference More and pHash 10 Image samples
 - **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-05)
 
 ## Course Project
