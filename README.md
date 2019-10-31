@@ -50,11 +50,11 @@ Mr. Kan Zhou
 
 ## Homework
 - **Content collection**: [homework-01](pdf/dam2019-hw01.pdf) (deadline, 2019-09-26)
-- **Assets cataloging**: [homework-02](pdf/dam2019-hw02.pdf) (deadline, 2019-10-08)  [a simple example](https://www.midifan.com) [郭勇飞同学的作业]( ... ) 
+- **Assets cataloging**: [homework-02](pdf/dam2019-hw02.pdf) (deadline, 2019-10-08) [a simple example](https://www.midifan.com) 
 - **Acquire data from internet**: [homework-02a](pdf/dam2019-hw02a.pdf) (deadline, 2019-10-17)
 - **Image watermarking**: [homework-03](pdf/dam2019-hw03.pdf) (deadline, 2019-10-29)
-- **Image similarity computing**: [homework-04](pdf/dam2019-hw04.pdf) (deadline, 2019-11-05) Additional reference More and pHash 10 Image samples
-- **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-05)
+- **Image similarity computing**: [homework-04](pdf/dam2019-hw04.pdf) (deadline, 2019-11-12) Additional reference More and pHash 10 Image samples
+- **Course note (课堂笔记)** : [homework-05](pdf/dam2019-hw05.pdf) (deadline, 2019-11-30) [Markdown template](course-note.md)
 
 ## Course Project
 - The course project [PDF](pdf/dam2019-project.pdf) (deadline, 2019-11-30)
